@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import { TodoCard } from "./TodoCard";
 
 export function TodoList(props) {

@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 export function Header(props) {
   const { todos } = props;
   const todosCounts = todos.length;

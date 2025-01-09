@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 export function Tabs(props) {
   const { todos, selectedTab, setSelectedTab } = props;
   const tabs = ["All", "Open", "Completed"];

@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 export function TodoCard(props) {
   const { todo, todoIndex, handleDeleteTodo, handleCompletedTodo } = props;
   const todos = todo;
